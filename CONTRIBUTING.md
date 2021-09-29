@@ -1,14 +1,16 @@
 # How to contribute to this project #
 You can add cards for any of these pages:
 
- > Movies
+#Task 1 
+ Link the chatbot to my Google calender. 
+ 1.To keep my meeting and timetable shedule
+ 2.Keep my classes sheduled
 
- > Series
-
- > Comics
- 
- > Characters
-
+# Task 2
+  1.Link chatbot to alexa.
+  
+# Task 3
+   1. make it voice assistant.
 
 ## Here are some quick and painless ways to contribute to this project: ##
 
@@ -20,7 +22,7 @@ Fork this repository (Click the Fork button in the top right of this page, click
 
 Clone your fork down to your local machine
 ```
- git clone https://github.com/Dsc-Dce/Marvel-web-app.git
+ git clone https://github.com/Dsc-Dce/chatBot-cloud
 ```
 
 Create a branch 
@@ -70,5 +72,5 @@ Star this repository if you had fun!
 
 Added _______ card in _______ section
 
-(For example : Added Endgames in movies section)
+(For example : Added Alexa in Cloud chatbot)
 

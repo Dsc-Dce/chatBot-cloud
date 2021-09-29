@@ -1,10 +1,10 @@
 # How to contribute to this project #
 You can add cards for any of these pages:
 
-#Task 1 
- Link the chatbot to my Google calender. 
- 1.To keep my meeting and timetable shedule
- 2.Keep my classes sheduled
+# Task 1 
+  Link the chatbot to my Google calender. 
+  1.To keep my meeting and timetable shedule
+  2.Keep my classes sheduled
 
 # Task 2
   1.Link chatbot to alexa.

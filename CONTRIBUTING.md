@@ -1,5 +1,4 @@
 # How to contribute to this project #
-You can add cards for any of these pages:
 
 # Task 1 
   Link the chatbot to my Google calender. 

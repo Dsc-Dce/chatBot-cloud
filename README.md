@@ -40,9 +40,11 @@ A ChatBot need not be always intelligent. It can be as simple as storing user’
 
 
 Feel free to play with it (This simple bot has minimum capabilities, bring out your own creativity for tuning it).
-I hope you enjoyed playing with it.
 
 
+# Techs used : #
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
 # What you will be doing? #
 

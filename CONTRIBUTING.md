@@ -2,14 +2,16 @@
 
 # Task 1 
   Link the chatbot to my Google calender. 
+  <br>
   1.To keep my meeting and timetable shedule
+  <br>
   2.Keep my classes sheduled
 
 # Task 2
-  1.Link chatbot to alexa.
+  1.Link chatbot to Alexa.
   
 # Task 3
-   1. make it voice assistant.
+   1.Make it voice assistant.
 
 ## Here are some quick and painless ways to contribute to this project: ##
 
@@ -69,7 +71,7 @@ Star this repository if you had fun!
 
 # Title of Pull Request #
 
-Added _______ card in _______ section
+Added _______(task name)
 
 (For example : Added Alexa in Cloud chatbot)
 
